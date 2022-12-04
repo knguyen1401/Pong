@@ -2,7 +2,8 @@
 
 ## Warning: Stupid code
 
-Library used: SDL2, SDL2 Image, SDL2 TTF, and nlohmann JSON.
+### Library used: 
+SDL2, SDL2 Image, SDL2 TTF, and nlohmann JSON.
 
 ### Compile:
 On Windows:
