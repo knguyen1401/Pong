@@ -1,0 +1,10 @@
+{
+    "BALL_SPEED": 4,
+    "PADDLE_SPEED": 15,
+    "PADDLE_DIR": "res/gfx/paddle.png",
+    "BALL_DIR": "res/gfx/ball.png",
+    "FONT_DIR": "res/font/font.ttf",
+    "BALL_SIZE": 20,
+    "PADDLE_WIDTH": 17,
+    "PADDLE_HEIGHT": 65
+}
