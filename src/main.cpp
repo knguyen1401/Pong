@@ -101,7 +101,7 @@ int main(int argc, char* argv[]){
         FreeConsole();
     #endif
 
-    MainWindow window("Pong", WIDTH, HEIGHT);
+    MainWindow window("Pong!", WIDTH, HEIGHT);
 
     TTF_Init();
 
