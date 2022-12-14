@@ -1,0 +1,20 @@
+{
+    "BALL_DIR": "res/gfx/ball.png",
+    "BALL_SPEED": 5,
+    "BALL_SIZE": 20,
+
+    "PADDLE_SPEED": 20,
+    "PADDLE_DIR": "res/gfx/paddle.png",
+    "PADDLE_WIDTH": 17,
+    "PADDLE_HEIGHT": 100,
+    
+    "FONT_DIR": "res/font/font.ttf",
+    "BIG_FONT_SIZE": 135,
+    "NORM_FONT_SIZE": 50,
+    "SMALL_FONT_SIZE": 20,
+    "CTRL_SMALL_FONT_SIZE": 17,
+
+    "HIT_SFX_DIR": "res/sfx/hit.wav",
+    "SCORE_SFX_DIR": "res/sfx/score.wav",
+    "SFX_VOLUME": 64
+}
